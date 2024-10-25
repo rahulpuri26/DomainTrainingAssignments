@@ -1,0 +1,15 @@
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/bin/Debug/net6.0/PracticeAssign
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/bin/Debug/net6.0/PracticeAssign.deps.json
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/bin/Debug/net6.0/PracticeAssign.runtimeconfig.json
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/bin/Debug/net6.0/PracticeAssign.dll
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/bin/Debug/net6.0/PracticeAssign.pdb
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/PracticeAssign.csproj.AssemblyReference.cache
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/PracticeAssign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/PracticeAssign.AssemblyInfoInputs.cache
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/PracticeAssign.AssemblyInfo.cs
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/PracticeAssign.csproj.CoreCompileInputs.cache
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/PracticeAssign.dll
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/refint/PracticeAssign.dll
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/PracticeAssign.pdb
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/PracticeAssign.genruntimeconfig.cache
+/Users/monilpuri/Desktop/Domain/Practice/PracticeAssign/obj/Debug/net6.0/ref/PracticeAssign.dll
