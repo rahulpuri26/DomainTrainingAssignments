@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9C0D+px09JcNo4S4L9HedyNrCHMj8W/f37ChsJhs3OKn/JPD+1e/6v5jTo7u6ZSC9XEAD5vj6zSIiuU/1JP3og==",
+  "success": true,
+  "projectFilePath": "/Users/monilpuri/Desktop/Domain/Practice/DIPAssign/DIPAssign.csproj",
+  "expectedPackageFiles": [
+    "/Users/monilpuri/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/monilpuri/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/monilpuri/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
