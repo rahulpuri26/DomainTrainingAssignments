@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Hosp_Code_First.props" />
+</Project>

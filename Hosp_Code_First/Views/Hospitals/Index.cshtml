@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Hosp_Code_First.Models.Hospital>
+
+@{
+    ViewData["Title"] = "Hospitals";
+}
+
+<h2>Hospitals</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Hospital</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var hospital in Model)
+        {
+            <tr>
+                <td>@hospital.Name</td>
+                <td>@hospital.Address</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@hospital.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@hospital.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

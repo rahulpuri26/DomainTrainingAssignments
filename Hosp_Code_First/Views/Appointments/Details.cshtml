@@ -1,0 +1,12 @@
+﻿@model Hosp_Code_First.Models.Appointment
+
+<h2>Appointment Details</h2>
+
+<div>
+    
+    <h4>Doctor ID: @Model.DoctorId</h4>
+    <h4>Patient ID: @Model.PatientId</h4>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.AppointmentId">Edit</a> |
+<a asp-action="Index">Back to List</a>
